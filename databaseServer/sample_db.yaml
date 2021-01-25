@@ -1,0 +1,19 @@
+linode1:
+  postgres:
+    host: "IP"
+    port: "5432"
+    db: "dbName"
+    user: "userName"
+    pswd: "password"
+
+  mongo:
+    host: "IP"
+    port: "27017"
+    database: "dbName"
+    user: "userName"
+    pswd: "password"
+
+  redis:
+    host: "IP"
+    port: "6379"
+    pswd: "password"
